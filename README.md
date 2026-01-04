@@ -22,11 +22,11 @@ An Expense Management System is a web-based application designed to help users t
 
 🛠️ Tech Stack
 
-Frontend: React.js, Ant Design
+  Frontend: React.js, Ant Design
 
-Backend: Node.js, Express.js, JWT, Bcrypt.js
+  Backend: Node.js, Express.js, JWT, Bcrypt.js
 
-Database: MongoDB
+  Database: MongoDB
 
 
 📈 Future Enhancements:
