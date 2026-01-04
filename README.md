@@ -1,4 +1,5 @@
-💰 Expense Management System
+💰 Expense Management System 
+<hr>
 
 An Expense Management System is a web-based application designed to help users track, manage, and analyze their daily expenses efficiently. The system allows users to record expenses, categorize them, and gain insights into their spending habits through organized reports and summaries.
 
