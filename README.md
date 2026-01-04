@@ -5,19 +5,19 @@ An Expense Management System is a web-based application designed to help users t
 
 🚀 Features:
 
- User Authentication (Login / Signup)
+1. User Authentication (Login / Signup)
 
- Add Expenses with amount, category, and date
+2. Add Expenses with amount, category, and date
 
- Edit & Delete Expenses
+3. Edit & Delete Expenses
 
- Expense Categorization (Food, Travel, Shopping, etc.)
+4. Expense Categorization (Food, Travel, Shopping, etc.)
 
- Expense Summary & Reports
+5. Expense Summary & Reports
 
- Date-wise Expense Tracking
+6. Date-wise Expense Tracking
 
- Responsive UI for all devices
+7. Responsive UI for all devices
 
 
 🛠️ Tech Stack
@@ -29,6 +29,7 @@ Backend: Node.js, Express.js
 Database: MongoDB
 
 
+
 Tools & Libraries:
 
 JWT Authentication
@@ -38,31 +39,13 @@ RESTful APIs
 Git & GitHub
 
 
-🎨 UI Highlights (Ant Design):
-
-Clean and professional layout
-
-Ant Design components like:
-
-Tables
-
-Forms
-
-Modals
-
-Date Pickers
-
-Cards & Alerts
-
-Consistent design system and accessibility
-
 
 📈 Future Enhancements:
 
- Monthly budget limits with alerts
+1. Monthly budget limits with alerts
 
- Export expenses (PDF / Excel)
+2. Export expenses (PDF / Excel)
 
- Multi-currency support
+3. Multi-currency support
 
- Deployment on AWS / Vercel
+4. Deployment on AWS / Vercel
