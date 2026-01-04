@@ -5,6 +5,7 @@ An Expense Management System is a web-based application designed to help users t
 
 
 🚀 Features:
+<hr>
 
 1. User Authentication (Login / Signup)
 
@@ -22,6 +23,7 @@ An Expense Management System is a web-based application designed to help users t
 
 
 🛠️ Tech Stack
+<hr>
 
   Frontend: React.js, Ant Design
 
@@ -31,6 +33,7 @@ An Expense Management System is a web-based application designed to help users t
 
 
 📈 Future Enhancements:
+<hr>
 
 1. Monthly budget limits with alerts
 
